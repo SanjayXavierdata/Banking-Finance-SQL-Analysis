@@ -14,10 +14,6 @@ The analysis focuses on:
 - Loan analysis
 - Monthly financial activity
 
-## Database Schema
-
-![ER Diagram](images/er_diagram.png)
-
 ## Tables
 
 - Customers
